@@ -1,0 +1,10 @@
+{
+  "research_topic": "Improving fine-tuning performance of language models.",
+  "queries": [
+    "parameter-efficient fine-tuning",
+    "LoRA transformer adaptation",
+    "transformer hyperparameter tuning",
+    "fine-tuning stability",
+    "mixed-precision training"
+  ]
+}
