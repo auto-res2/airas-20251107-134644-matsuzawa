@@ -6,5 +6,82 @@
     "transformer hyperparameter tuning",
     "fine-tuning stability",
     "mixed-precision training"
+  ],
+  "research_study_list": [
+    {
+      "title": "Spectral Adapter: Fine-Tuning in Spectral Space"
+    },
+    {
+      "title": "Parameter-Efficient Fine-Tuning Design Spaces"
+    },
+    {
+      "title": "ReFT: Representation Finetuning for Language Models"
+    },
+    {
+      "title": "SVFT: Parameter-Efficient Fine-Tuning with Singular Vectors"
+    },
+    {
+      "title": "Make Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning"
+    },
+    {
+      "title": "The Expressive Power of Low-Rank Adaptation"
+    },
+    {
+      "title": "ReLoRA: High-Rank Training Through Low-Rank Updates"
+    },
+    {
+      "title": "Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning "
+    },
+    {
+      "title": "LoRA+: Efficient Low Rank Adaptation of Large Models"
+    },
+    {
+      "title": "LoRA-GA: Low-Rank Adaptation with Gradient Approximation"
+    },
+    {
+      "title": "Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer"
+    },
+    {
+      "title": "Towards Learning Universal Hyperparameter Optimizers with Transformers"
+    },
+    {
+      "title": "Improving Transformer Optimization Through Better Initialization "
+    },
+    {
+      "title": "Dynamic Layer Tying for Parameter-Efficient Transformers"
+    },
+    {
+      "title": "Meta-learning to Improve Pre-training"
+    },
+    {
+      "title": "On the Stability of Fine-tuning BERT: Misconceptions, Explanations, and Strong Baselines"
+    },
+    {
+      "title": "Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks"
+    },
+    {
+      "title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!"
+    },
+    {
+      "title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!"
+    },
+    {
+      "title": "Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models"
+    },
+    {
+      "title": "Collage: Light-Weight Low-Precision Strategy for LLM Training"
+    },
+    {
+      "title": "Guaranteed Approximation Bounds for Mixed-Precision Neural Operators"
+    },
+    {
+      "title": "Shifted and Squeezed 8-bit Floating Point format for Low-Precision Training of Deep Neural Networks"
+    },
+    {
+      "title": "Retraining-Free Model Quantization via One-Shot Weight-Coupling Learning"
+    },
+    {
+      "title": "AMPA: Adaptive Mixed Precision Allocation for Low-Bit Integer Training"
+    }
   ]
 }
